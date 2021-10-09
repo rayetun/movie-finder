@@ -107,6 +107,16 @@ body{
 	transform: translateY(0);
 }
 
+footer {
+	padding: 25px;
+	background: #272368;
+	color: #ffffff;
+	text-align:center;
+}
+.footer-text a{
+	color: #ffffff;
+}
+
 
 
 
